@@ -3,7 +3,7 @@ layout: post
 ---
 
 We are the Beats
-
+====
 
 My goal is to write a novel, short story, television show, or sketch.
 
@@ -20,6 +20,7 @@ CROW: character-relationship-objective-where
 For this exercise, the primary focus is going to be on 'objective' - on a character's pursuit of what he or she wants.  ( Out of necessity, we will deep our feet into relationships as well )
 
 Here are some tangible things a character might want:
+
 - a book 
 - new glasses 
 - to escape from a cage
@@ -29,6 +30,7 @@ Here are some tangible things a character might want:
 - the hope diamond
 
 Here are some Intangible things that one character might want from another:
+
 - love ( like a girl might want a boy to love her )
 - respect  ( like an employee might want his boss to respect him )
 - fear ( like a boss might want her employees to be afraid of her )

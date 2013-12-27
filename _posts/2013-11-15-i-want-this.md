@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-Iwant this and you won't let me have it
+I want this and you won't let me have it
 
 
 My goal is to write a television show, novel or short story or short film.
@@ -26,9 +26,10 @@ Here is how you might approach this:
 You might first identify a need for Alice, the thing she will pursue in the scene.  Make sure her need is something Bob and only Bob can provide.  Bob is the obstacle, Bob will not let Alice get what she wants.
 
 For example:
-Alice wants to kiss Bob.  Bob does not want to be kissed.
-Alice wants to kill Bob.  Bob does not want to be killed.
-Alice wants Bob to give her a piggyback ride.  Bob does not want to do this.
+
+- Alice wants to kiss Bob.  Bob does not want to be kissed.
+- Alice wants to kill Bob.  Bob does not want to be killed.
+- Alice wants Bob to give her a piggyback ride.  Bob does not want to do this.
 
 But thats not all.  Bob has some objective also in this scene.  Bob wants something from Alice.  
 Alice is Bob's obstacle, Alice will not give Bob what he wants.
@@ -43,9 +44,9 @@ Alice wants to kiss Bob.  Bob does not want to be kissed.  Bob wants Alice's gla
 
 Keep in mind that at its core, this is an exercise about characters pursuing an objective faced with an obstacle.
 
-*Alice's objective does not change during the scene   (unless it is right at the very end)
-*Bob's objective does not change during the scene  (unless it is right at the very end)
-*Don't worry about what happens when the characters get what they want.  That will be the focus of next time.
+* Alice's objective does not change during the scene   (unless it is right at the very end)
+* Bob's objective does not change during the scene  (unless it is right at the very end)
+* Don't worry about what happens when the characters get what they want.  That will be the focus of next time.
 * try to make the characters emotionally invested in what is going on 
 * stay honest to your characters
 * If you don't know what should happen next:
@@ -62,11 +63,11 @@ Keep in mind that at its core, this is an exercise about characters pursuing an 
 
 I suggest going through the work of writing several sentences like the ones below, to get a basic feeling of whats going on.  Feel free to swap Alice and Bob's names with the names of whoever you like.  Here are some samples:
 
-Alice wants to kiss Bob.  Bob does not want to be kissed.  Bob wants Alice return her cups when she is done using them.  Alice does not want to do that.
-Alice wants to kill Bob. Bob does not want to be killed.  Bob wants Alice return her cups to the kitchen when she is done using them.  Alice does not want to do that.
-Alice wants Bob to give her a piggyback ride.  Bob does not want to do this.  Bob wants Alice to clean up her room.  Alice does not want to clean up her room.
-Alice wants Bob's ring.  Bob does not want to give up his ring.  Bob wants Alice to work for him.   Alice does not want to work.
-Bob wants Alice to work for him.  Alice does not want to work.  Alice wants Bob to pose for a photograph.  Bob does not want to pose. 
+- Alice wants to kiss Bob.  Bob does not want to be kissed.  Bob wants Alice return her cups when she is done using them.  Alice does not want to do that.
+- Alice wants to kill Bob. Bob does not want to be killed.  Bob wants Alice return her cups to the kitchen when she is done using them.  Alice does not want to do that.
+- Alice wants Bob to give her a piggyback ride.  Bob does not want to do this.  Bob wants Alice to clean up her room.  Alice does not want to clean up her room.
+- Alice wants Bob's ring.  Bob does not want to give up his ring.  Bob wants Alice to work for him.   Alice does not want to work.
+- Bob wants Alice to work for him.  Alice does not want to work.  Alice wants Bob to pose for a photograph.  Bob does not want to pose. 
 
 This will be the most difficult exercise so far.  Thats ok.  The reward is here is that you now have one of the most important tools for being able to tell a story.  And, as usual, you will have satisfying feedback from your peers, and the knowledge that you are writing for an audience that is reading. 
 

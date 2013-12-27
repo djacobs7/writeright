@@ -17,6 +17,7 @@ Write 15-30 'moments' for this character.  Aim for about 3-5 sentences each, but
 The primary goal here is to learn about the character through the things that they do.
 
 A 'moment' could be: 
+
  - finding the car keys
  - winning the lottery
  - their bedtime ritual
@@ -33,6 +34,7 @@ If you are interested in being funny:
 
 
 Things that your audience will be reading for:
+
 - what are the character's flaws
   - seriously, try to make sure you have a list of their flaws
 - why is this character special?
@@ -44,4 +46,4 @@ Hopefully, your audience will come away from this understanding the character re
 
 I am estimating that I will finish this around Wednesday September 18th.
 
-By the way, to give credit where it is due, a lot of this is inspired by the various essays in the fantastic: 'Now Write! Screenwriting' ( http://www.amazon.com/Now-Write-Screenwriting-Exercises-Teachers/dp/1585428515 )   
+By the way, to give credit where it is due, a lot of this is inspired by the various essays in the fantastic: ['Now Write! Screenwriting'](http://www.amazon.com/Now-Write-Screenwriting-Exercises-Teachers/dp/1585428515)   
