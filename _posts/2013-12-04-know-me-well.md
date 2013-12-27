@@ -1,5 +1,9 @@
+---
+layout: post
+---
 
 I want to write a novel or short story or film.
+======
 
 In order to do that, I need several characters who I know and understand well.  That way, it will be easier to place them in relation to each other.  So this is an exercise in building character.  When you are finished, you will have another tool in your tool box for the next time you need to understand one of your characters more fully.
 

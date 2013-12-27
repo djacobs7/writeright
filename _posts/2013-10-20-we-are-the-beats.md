@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 We are the Beats
 
 

@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 A Little Bit Deeper Now
 
 

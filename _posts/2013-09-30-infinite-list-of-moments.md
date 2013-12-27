@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 An infinite list of moments:
 
 My goal is to write a television show, movie, or sketch. 

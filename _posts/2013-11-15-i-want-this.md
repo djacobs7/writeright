@@ -1,4 +1,7 @@
-I want this and you won't let me have it
+---
+layout: post
+---
+Iwant this and you won't let me have it
 
 
 My goal is to write a television show, novel or short story or short film.
